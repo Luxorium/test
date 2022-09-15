@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luxorium#0001",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
